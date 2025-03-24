@@ -30,7 +30,7 @@ function App() {
               <div className="flex gap-2">
                 <Pencil
                   size={20}
-                  className="text-gray-500 cursor-pointer hover:text-gray-900"
+                  className="text-gray-500 cursor-pointer hover:text-gray-900 "
                 />
 
                 <Trash
